@@ -1,0 +1,18 @@
+{
+    "request": {
+        "urlPath": "/beer",
+        "method": "GET",
+        "queryParameters": {
+            "style": {
+                "equalTo": "STOUT"
+            }
+        }
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "bodyFileName": "get_beer_by_type_stout.json"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "request": {
+        "urlPath": "/beer/xml",
+        "method": "GET"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Content-Type": "application/xml"
+        },
+        "bodyFileName": "get_beer.xml"
+    }
+}

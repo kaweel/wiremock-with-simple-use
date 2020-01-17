@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Fall of Troy",
+    "style": "IPA",
+    "price": 305
+  },
+  {
+    "id": 3,
+    "name": "Brewdog Punk IPA",
+    "style": "IPA",
+    "price": 235
+  }
+]
