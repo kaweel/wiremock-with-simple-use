@@ -4,7 +4,7 @@
         "method": "GET",
         "queryParameters": {
             "style": {
-                "equalTo": "IPA"
+                "equalTo": "STOUT"
             }
         }
     },
@@ -13,6 +13,6 @@
         "headers": {
             "Content-Type": "application/json"
         },
-        "bodyFileName": "get_beer_by_type_ipa.json"
+        "bodyFileName": "get_beer_by_style_stout.json"
     }
 }
